@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.Todo-App {
+  padding-top:35px;
+  display: inline-block;
+  text-align: left;
+}
+
+input {
+  font-size: 20px
+}
+
+ul {
+  padding: 0px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.message {
+    background-color: #61dbaf;
+    color: white;
+    text-align: center;
+    position: absolute;
+    margin-top: -25px;
+    width: 34%;
+}
+
+.delete-item {
+    color: red;
+    border: none;
+}
+
+a {
+    padding-left: 2px;
+    padding-right: 2px;
+}
