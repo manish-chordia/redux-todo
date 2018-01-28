@@ -1,29 +1,4 @@
 {
   "todos": [
-    {
-      "id": 1,
-      "name": "Create static UI",
-      "isComplete": true
-    },
-    {
-      "id": 2,
-      "name": "Create Initial state",
-      "isComplete": true
-    },
-    {
-      "id": 3,
-      "name": "Render based on state",
-      "isComplete": false
-    },
-    {
-      "name": "Another Todo",
-      "isComplete": false,
-      "id": 4
-    },
-    {
-      "name": "New Todo",
-      "isComplete": true,
-      "id": 5
-    }
   ]
 }
